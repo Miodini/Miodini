@@ -1,4 +1,4 @@
-### Brazilian Full-Stack dev graduated in Computer Science, most experienced in Web Development.
+### Full-Stack dev most experienced in React
 
 # Tech Stack
 ## 📋 Languages
@@ -31,8 +31,3 @@
 
 ## 🧪 Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-# About Me
-- I like not only programming languages but also real languages. I speak Portuguese and English, and I'm learning Japanese (intermediate) and Italian (beginner)
-- I love games
-- My dream is living abroad 🌐
